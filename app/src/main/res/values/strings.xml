@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiscountCalculationApp</string>
+    <string name="DiscountCalculation">割引計算</string>
+    <string name="last_price">定価</string>
+    <string name="discount">割引（％）</string>
+    <string name="discount_amount">金額: %s</string>
+    <string name="round_up_discount">四捨五入しますか？</string>
+
+</resources>
